@@ -1,0 +1,29 @@
+
+ul {
+    list-style: none;
+}
+
+body{
+
+    margin-right: auto;
+    margin-left: auto;
+    width: 420px;
+    height: 420px;
+    border: 5px solid gray;
+    padding: 50px, 50px;
+    background-color: rgb(173, 170, 166);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    color:rgb(27, 42, 128)
+}
+
+h3{
+    color:rgb(20, 97, 148)
+}
+
+li{
+    color:  black
+}
